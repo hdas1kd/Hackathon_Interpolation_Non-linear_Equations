@@ -30,5 +30,3 @@ Super valuable for reinforcing theory with real coding pressure — and honestly
 - Notes on method performance, pros/cons, and lessons learned  
 
 Feel free to explore, reuse, or improve any part of it!
-
-Made with enthusiasm during [Your Course Name / Professor Name]'s class 🚀
