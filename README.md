@@ -3,15 +3,15 @@ It was just a short classroom event, but the intensity made it feel like a full-
 # Numerical Methods Mini-Hackathon: Interpolation & Nonlinear Equations
 
 **Event:** In-class Mini Hackathon  
-**Topic:** Interpolation Techniques and Solving Nonlinear Equations  
+**Topic:** Interpolation Techniques and Root Finding in Non-linear Constitutive Models  
 **Date:** March 2026  
 **Format:** Individual / small-team competition during class
 
 ## Overview
-I recently took part in a high-energy **mini in-class hackathon** centered on two fundamental topics in numerical analysis:
+I recently took part in a **mini in-class hackathon** centered on two fundamental topics in numerical analysis:
 
-- **Interpolation**: Implementing and comparing methods like Lagrange interpolation, Newton divided differences, cubic splines, etc., to approximate functions from discrete data points.
-- **Nonlinear Equations**: Building solvers for f(x) = 0 using root-finding algorithms such as Bisection, False Position, Secant, Newton-Raphson (with and without derivatives), and possibly hybrid approaches.
+- **Interpolation**: Linear, RBF
+- **Root Finding - Nonlinear Constitutive Models**: Newton-raphson, Bi-section and Secant methods.
 
 The challenge? Solve a set of given problems as accurately and efficiently as possible within the limited time — while competing against classmates for the best performance on convergence speed, accuracy, and robustness across test cases.
 
