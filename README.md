@@ -1,4 +1,4 @@
-# Hackathon_Interpolation_Non-linear_Equations
+# In Class Hackathon Problems
 It was just a short classroom event, but the intensity made it feel like a full-scale hackathon! Had a great experience to participate in and compete with others.
 # Numerical Methods Mini-Hackathon: Interpolation & Nonlinear Equations
 
